@@ -2,11 +2,11 @@
   "users": [
     {
       "id": "e506",
-      "fullName": "Amna Fazeelat",
-      "username": "amnafazeelat",
-      "email": "amnafazeelat@ec.io",
-      "password": "amna",
-      "confirmPassword": "amna"
+      "fullName": "Muhammad Asad Ullah",
+      "username": "muhammadasadullah",
+      "email": "muhammadasadullah@ec.io",
+      "password": "asadullah",
+      "confirmPassword": "asadullah"
     }
   ]
 }
