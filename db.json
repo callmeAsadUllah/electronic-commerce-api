@@ -1,12 +1,12 @@
 {
-    "users": [
-        {
-            "firstName": "Muhammad",
-            "lastName": "Asad Ullah"
-        },
-        {
-            "firstName": "Amna",
-            "lastName": "Fazeelat"
-        }
-    ]
+  "users": [
+    {
+      "id": "e506",
+      "fullName": "Amna Fazeelat",
+      "username": "amnafazeelat",
+      "email": "amnafazeelat@ec.io",
+      "password": "amna",
+      "confirmPassword": "amna"
+    }
+  ]
 }
